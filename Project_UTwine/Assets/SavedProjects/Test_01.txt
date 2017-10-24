@@ -1,0 +1,40 @@
+{
+    "passages": [
+        {
+            "passageName": "First passage",
+            "text": "This is the start of the thing \n\n[[Start the game|GameStart]]",
+            "inGamePassage": {
+                "instanceID": -350948
+            },
+            "position": {
+                "x": 140.99996948242188,
+                "y": 197.00001525878907,
+                "z": 0.0
+            }
+        },
+        {
+            "passageName": "GameStart",
+            "text": "nothing to see here...\n\nBut it looks like the enter options work.",
+            "inGamePassage": {
+                "instanceID": -351030
+            },
+            "position": {
+                "x": 416.9999084472656,
+                "y": 247.99998474121095,
+                "z": 0.0
+            }
+        },
+        {
+            "passageName": "Third passage",
+            "text": "abcd",
+            "inGamePassage": {
+                "instanceID": -351112
+            },
+            "position": {
+                "x": 686.0,
+                "y": 247.99998474121095,
+                "z": 0.0
+            }
+        }
+    ]
+}
